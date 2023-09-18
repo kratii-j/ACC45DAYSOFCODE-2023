@@ -1,0 +1,5 @@
+X=int(input("enter the amount of water consumed today"))
+if X>=2000:
+    print("YES")
+else:
+    print("NO")
