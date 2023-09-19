@@ -1,0 +1,6 @@
+T=int(input("enter number of of test cases"))
+X=int(input("enter number of 5 rupee coins"))
+Y=int(input("enter number of 10 rupee coins"))
+Z=int(input("enter cost of each chocolate"))
+money=X*5+Y*10
+print(money/Z)
