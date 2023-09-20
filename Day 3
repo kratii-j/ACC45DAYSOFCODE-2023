@@ -1,0 +1,4 @@
+X=int(input("Number of students in class"))
+Y=int(input("numbers of chair chef has"))
+chair=X+Y
+print(chair)
