@@ -1,0 +1,6 @@
+X=int(input("daily goal"))
+Y=int(input("number of chocolates he sells"))
+if X>Y:
+  print(X*1)
+else: 
+    print(X*1+Y*2)
