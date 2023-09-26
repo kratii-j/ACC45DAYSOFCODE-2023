@@ -1,0 +1,4 @@
+X=int(input("enter rent amount per month"))
+Y=int(input("enter purchase amount"))
+months=Y/X
+print(months)
