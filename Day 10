@@ -1,0 +1,4 @@
+X=int(input("enter money chef has"))
+Y=int(input("cost of one chocolate"))
+maxmonths=X/Y
+print(maxmonths)
