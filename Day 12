@@ -1,0 +1,4 @@
+X=int(input("speed of bullet per frame"))
+Y=int(input("distance of goomba from him"))
+time=Y/X
+print(time)
