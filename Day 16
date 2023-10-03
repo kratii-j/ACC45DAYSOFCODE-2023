@@ -1,0 +1,6 @@
+N=int(input("no. of candies chef has"))
+M=int(input("no. of friends"))
+if N/M%2==0:
+    print(N/M)
+else:
+    print("chef isn't satisfied")
